@@ -12,5 +12,6 @@ This Mathematica© add-on package performs common geometric morphometric functio
 
 This package is used in the course <a href="https://www.pollylab.org/courses/morphometrics">Geometric Morphometrics</a>.  Funding for development for this package has been provided by grants NSF EAR 1338298, the Robert R. Shrock fund at Indiana University, the Yale Institute for Biospheric Studies, and the Lilly Endowment through its support for the Indiana University Pervasive Technology Institute and the Indiana METACyt Initiative. 
 
+<b>User manual:</b> https://github.com/pdpolly/Morphometrics-for-Mathematica/releases/download/v12.5/Guide.to.PollyMorphometrics.12.5.pdf 
 
-<b>Cite as:</b> Polly, P.D. 2022. Geometric morphometrics for Mathematica. Version 12.4. https://github.com/pdpolly/Morphometrics-for-Mathematica
+<b>Cite as:</b> Polly, P.D. 2023. Geometric morphometrics for Mathematica. Version 12.5. https://github.com/pdpolly/Morphometrics-for-Mathematica [![DOI](https://zenodo.org/badge/513635593.svg)](https://zenodo.org/doi/10.5281/zenodo.10247111)
