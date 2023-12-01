@@ -12,4 +12,4 @@ This package is used in the course <a href="https://www.pollylab.org/courses/mor
 
 <b>User manual:</b> https://github.com/pdpolly/Morphometrics-for-Mathematica/releases/download/v12.5/Guide.to.PollyMorphometrics.12.5.pdf 
 
-<b>Cite as:</b> Polly, P.D. 2023. Geometric morphometrics for Mathematica. Version 12.5. https://github.com/pdpolly/Morphometrics-for-Mathematica [![DOI](https://zenodo.org/badge/513635593.svg)](https://zenodo.org/doi/10.5281/zenodo.10247111)
+<b>Cite as:</b> Polly, P.D. 2023. Geometric morphometrics for Mathematica. Version 12.5. https://github.com/pdpolly/Morphometrics-for-Mathematica [![DOI](https://zenodo.org/badge/513635593.svg)](https://zenodo.org/doi/10.5281/zenodo.10247128)
